@@ -1,0 +1,9 @@
+{
+	"ip":"Zoco.aternos.me",
+	"port": 30912,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (afkbot123(remember_no_spaces))",
+	"login-cmd":"/login (afkbot123)"
+}
